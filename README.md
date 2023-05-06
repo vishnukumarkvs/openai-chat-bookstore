@@ -39,4 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - Stable Nextjs 13.4
 - UI - https://ui.shadcn.com/
 
-- fdont make page, layout client. create componenets and import
+- dont make page, layout as client. create componenets and import
+
+- sitemap. gives all info about your website. google has software called sitemap generator which crawls your website
