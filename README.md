@@ -35,5 +35,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Notes
 
+- yt - https://youtu.be/KiWClrSVgfU
 - Stable Nextjs 13.4
 - UI - https://ui.shadcn.com/
+
+- fdont make page, layout client. create componenets and import
