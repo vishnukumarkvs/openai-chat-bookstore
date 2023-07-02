@@ -1,0 +1,9 @@
+# Notes
+
+- yt - https://youtu.be/KiWClrSVgfU
+- Stable Nextjs 13.4
+- UI - https://ui.shadcn.com/
+
+- dont make page, layout as client. create componenets and import
+
+- sitemap. gives all info about your website. google has software called sitemap generator which crawls your website
