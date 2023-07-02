@@ -2,6 +2,9 @@
 
 This project is a fully functional chatbot built using OpenAI and Next.js. It can be integrated into any website to provide interactive and engaging conversation capabilities with users. In this particular example, the chatbot is designed to simulate a chatbot for a bookstore website, but it can be easily adapted for other types of websites.
 
+![Chatbot](https://github.com/vishnukumarkvs/openai-chat-bookstore/assets/116954249/2f0a8f7b-4d51-4acf-910f-f4a98d3b93ce)
+
+
 ## Features
 
 - **Interactive Conversations:** The chatbot engages in interactive conversations with users, providing a natural language interface to interact with the website's content and services.
