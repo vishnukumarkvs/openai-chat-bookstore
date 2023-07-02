@@ -51,7 +51,5 @@ While the chatbot provides an interactive conversational experience for users, t
 - **Privacy and Data Protection:** When deploying the chatbot on a live website, consider privacy and data protection regulations. Ensure that any user data collected or processed by the chatbot is handled securely and in compliance with applicable laws and regulations.
 
 ## Acknowledgements
-
-This project was built using OpenAI's powerful
-
-language model and Next.js framework. Special thanks to the respective teams for their contributions.
+This project is built taking reference from Josh Tried Coding YT Channel - https://youtu.be/KiWClrSVgfU
+This project was built using OpenAI's powerful language model and Next.js framework. Special thanks to the respective teams for their contributions.
